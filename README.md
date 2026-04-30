@@ -21,9 +21,9 @@ cards.
 
 ## Demo
 
-<video src="assets/demo.mp4" controls width="100%"></video>
+![Texas Hold'em Odds Calculator demo](assets/demo.gif)
 
-[Watch the demo video](assets/demo.mp4)
+[Watch the higher quality MP4 demo](assets/demo.mp4)
 
 ## Requirements
 
