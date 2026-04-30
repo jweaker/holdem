@@ -19,6 +19,12 @@ cards.
 - Optional Raylib UI with card assets, table rendering, animated dealing, chip
   stacks, async simulation, and orbit camera controls
 
+## Demo
+
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+[Watch the demo video](assets/demo.mp4)
+
 ## Requirements
 
 - C++17 compiler, such as `g++` or `clang++`
